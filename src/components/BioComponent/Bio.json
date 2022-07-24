@@ -1,0 +1,91 @@
+{
+  "education": [
+    {
+      "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
+      "description": "M.Tech Research and Ph.D. Dual Degree",
+      "department": "Electrical Communication Engineering",
+      "supervisor": "<span>Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a></span>",
+      "thesisTitle": "Sequential Controlled Sensing to Detect an Anomalous Process",
+      "year": "Jul 2015 - Nov 2021",
+      "imageUrl": "../images/iiscLogo.jpeg"
+    },
+    {
+      "collegeName": "<a href=\"https://www.rvce.edu.in/\" target=\"_blank\" rel=\"noopener noreferrer\">Rashtreeya Vidyalaya College of Engineering</a>",
+      "description": "Bachelor of Engineering",
+      "major" : "Electronics and Communications Engineering",
+      "year": "Aug 2010 - Jun 2014",
+      "imageUrl": "../images/rvLogo.jpeg"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Research Fellow",
+      "collegeName": "<a href=\"https://ids.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">Institute of Data Science</a>, <a href=\"https://www.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">National University of Singapore</a>",
+      "project": "Towards Trustable Model-Centric Sharing for Collaborative Machine Learning",
+      "supervisor": "Prof. <a href=\"https://vyftan.github.io/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
+      "year": "Jan 2022 - Present",
+      "place": "Singapore",
+      "imageUrl": "../images/nusLogo.jpeg"
+    },
+    {
+      "title": "Research Associate - 1",
+      "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
+      "year": "Nov 2021 - Dec 2021",
+      "place": "Bengaluru, Karnataka, India",
+      "imageUrl": "../images/iiscLogo.jpeg"
+    },
+    {
+      "title": "Intern",
+      "collegeName": "<a href=\"https://www.netradyne.com/india\" target=\"_blank\" rel=\"noopener noreferrer\">Netradyne Technology India Pvt Ltd</a>",
+      "year": "Nov 2019 - Mar 2020",
+      "place": "Bengaluru, Karnataka, India",
+      "imageUrl": "../images/netradyneLogo.jpeg",
+      "mentor": "<a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\" rel=\"noopener noreferrer\">Pratik Verma</a> and Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>"
+    },
+    {
+      "title": "Graduate Teaching Assistant",
+      "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
+      "year": "Aug - Dec 2019, 2018, 2017",
+      "place": "Bengaluru, Karnataka, India",
+      "imageUrl": "../images/iiscLogo.jpeg",
+      "courseInstructor": "Prof. <a href=\"https://ece.iisc.ac.in/~htyagi/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Himanshu Tyagi</a>, Prof. <a href=\"https://ece.iisc.ac.in/~utpal/\" target=\"_blank\" rel=\"noopener noreferrer\">Utpal Mukherji</a>, Prof. <a href=\"https://ece.iisc.ac.in/~parimal/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Parimal Parag</a>"
+    },
+    {
+      "title": "Project Assistant",
+      "collegeName": "<a href=\"https://iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Indian Institute of Science</a>",
+      "year": "Aug 2014 - Jul 2015",
+      "place": "Bengaluru, Karnataka, India",
+      "imageUrl": "../images/iiscLogo.jpeg",
+      "supervisor": "Prof. <a href=\"https://ece.iisc.ac.in/~cmurthy/doku.php?id=home\" target=\"_blank\" rel=\"noopener noreferrer\">Chandra R. Murthy</a>"
+    }
+  ],
+  "awardsAndHonors": [
+    {"title": "Winner of the <a href=\"https://drive.google.com/drive/folders/1ym3GB05XDHRbjU3mGJaIz4v37Z-Qj4xI\" target=\"_blank\" rel=\"noopener noreferrer\">100 Seconds competition</a> (under the Electronics and Communication Engineering category) organised by INAE Kanpur Chapter",
+    "badgesData": [
+      {
+        "badgeName": "certificate",
+        "link": "../media/2021/12/INAE-100-seconds.pdf",
+        "badgeDisplayName": "certificate"
+      }
+    ]},
+    {"title": "Best paper award at the <a href=\"https://eecs.iisc.ac.in/EECS2020/index.php\" target=\"_blank\" rel=\"noopener noreferrer\">2020 EECS Research Students’ Symposium</a>, Indian Institute of Science",
+    "badgesData": [
+      {
+        "badgeName": "certificate",
+        "link": "../media/2020/10/Best_paper_award_certificate.pdf",
+        "badgeDisplayName": "certificate"
+      }
+    ]},
+    {"title": "Best 3-minute presentation at the ECE Students’ Seminar Series, Department of Electrical Communication Engineering, Indian Institute of Science"},
+    {"title": "Secured rank 136 (among the top 0.01%) in the 2015 Graduate Aptitude Test in Engineering (GATE)"},
+    {"title": "Infineon India scholarship for securing rank 2 in the 2011 Visvesvaraya Technological University examinations"},
+    {"title": "Secured rank 23 (among the top 0.02%) in the 2010 Karnataka Common Entrance Test (KCET)"}
+  ],
+  "professionalService": [
+    {"title": "Reviewer, IEEE Transactions on Information Theory"},
+    {"title": "Reviewer, IEEE Transactions on Signal Processing"},
+    {"title": "Reviewer, Entropy Journal"},
+    {"title": "Reviewer, IEEE International Symposium on Information Theory (ISIT)"},
+    {"title": "Reviewer, National Conference on Communications (NCC)"}
+  ]
+}

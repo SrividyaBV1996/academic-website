@@ -1,0 +1,118 @@
+[
+  {
+    "date": "31 Mar 2022",
+    "content": "Posted a paper on <em>Best Arm Identification in Restless Markov Multi-Armed Bandits</em>. Joint work with colleague <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a> and postdoc supervisor Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>.",
+    "badgesData": [
+      {
+        "badgeName": "arxiv",
+        "link": "https://arxiv.org/abs/2203.15236",
+        "badgeDisplayName": "arxiv"
+      }
+    ]
+  },
+  {
+    "date": "20 Dec 2021",
+    "content": "Joined the <a href=\"https://ids.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">Institute of Data Science</a> of the <a href=\"https://www.nus.edu.sg/\" target=\"_blank\" rel=\"noopener noreferrer\">National University of Singapore</a> as a Research Fellow."
+  },
+  {
+    "date":"13 Dec 2021",
+    "content": "Won the <span class=\"boldColor\">first place</span> under the Electronics and Communication Engineering category in the 100 seconds competition organised by INAE Kanpur Chapter.",
+    "badgesData": [
+      {
+        "badgeName": "certificate",
+        "link": "../media/2021/12/INAE-100-seconds.pdf",
+        "badgeDisplayName": "certificate"
+      },
+      {
+        "badgeName": "video",
+        "link": "https://youtu.be/f9IxTny5FXU",
+        "badgeDisplayName": "100 seconds video"
+      }
+    ]
+  },
+  {
+    "date":"08 Nov 2021",
+    "content": "Successfully defended my Ph.D. thesis titled <em>Sequential Controlled Sensing to Detect an Anomalous Process</em>.",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2021/11/thesis-defence.pdf",
+        "badgeDisplayName": "slides"
+      },
+      {
+        "badgeName": "video",
+        "link": "https://youtu.be/64BscxU7nhg",
+        "badgeDisplayName": "video"
+      },
+      {
+        "badgeName": "thesis",
+        "link": "../media/2021/11/main.pdf",
+        "badgeDisplayName": "thesis"
+      }
+    ]
+  },
+  {
+    "date": "04 Aug 2021",
+    "content": "Accepted to the Institute of Data Science, National University of Singapore, as a Research Fellow."
+  },
+  {
+    "date":"23 Jun 2021",
+    "content": "Presented my Ph.D. colloquium talk via Microsoft Teams.",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2021/06/thesis-colloquium.pdf",
+        "badgeDisplayName": "slides"
+      },
+      {
+        "badgeName": "video",
+        "link": "https://youtu.be/K4mDnbY03a4",
+        "badgeDisplayName": "teams recording"
+      }
+    ]
+  },
+  {
+    "date": "30 Apr 2021",
+    "content": "My paper with Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>, titled <em>Learning to Detect an Odd Restless Markov Arm</em>, accepted for presentation in the 2021 IEEE International Symposium on Information Theory (ISIT)."
+  },
+  {
+    "date": "11 Apr 2021",
+    "content": "My paper with Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>, titled <em>Detecting an Odd Restless Arm with a Trembling Hand</em>, accepted for publication in the IEEE Transactions on Information Theory."
+  },
+  {
+    "date": "06 Feb 2021",
+    "content": "New <a href=\"#/blogs/raman-and-his-inner-clock/\" target=\"_blank\" rel=\"noopener noreferrer\">blog post</a> on Sir C. V. Raman’s sense of time."
+  },
+  {
+    "date": "20 Jun 2020",
+    "content": "My paper with Prof. <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>, titled <em>Learning to Detect an Odd Markov Arm</em>, published in the July issue of the IEEE Transactions on Information Theory.",
+    "badgesData": [
+      {
+        "badgeName": "paper",
+        "link": "../media/2020/06/TIT_learning_to_detect_an_odd_markov_arm.pdf",
+        "badgeDisplayName": "paper"
+      },
+      {
+        "badgeName": "xplore",
+        "link": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8990074",
+        "badgeDisplayName": "xplore"
+      }
+    ]
+  },
+  {
+    "date":"09 Jun 2020",
+    "content": "Video and slides of the virtual presentation for ISIT 2020 now up on the website.",
+    "badgesData": [
+      {
+        "badgeName": "slides",
+        "link": "../media/2020/06/ISIT2020_Karthik_Sundaresan.pdf",
+        "badgeDisplayName": "slides"
+      },
+      {
+        "badgeName": "video",
+        "link": "https://www.youtube.com/watch?v=ZTV5VtCLrdQ",
+        "badgeDisplayName": "video"
+      }
+    ]
+  }
+]

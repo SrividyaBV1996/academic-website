@@ -1,0 +1,215 @@
+{
+  "preprints": [
+    {
+      "id": "pp1",
+      "title": "<em>Best Arm Identification in Restless Markov Multi-Armed Bandits</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://scholar.google.com/citations?user=tqgIzfwAAAAJ&hl=en\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Kota Srinivas Reddy</a>, and <a href=\"https://vyftan.github.io\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Vincent Y. F. Tan</a>",
+      "status":"Submitted to the IEEE Transactions on Information Theory, Mar 2022",
+      "hasAbstract": true,
+      "abstract": "<p>We study the problem of identifying the best arm in a multi-armed bandit environment when each arm is a time-homogeneous and ergodic discrete-time Markov process on a common, finite state space. The state evolution on each arm is governed by the arm's transition probability matrix (TPM). A decision entity that knows the set of arm TPMs but not the exact mapping of the TPMs to the arms, wishes to find the index of the best arm as quickly as possible, subject to an upper bound on the error probability. The decision entity selects one arm at a time sequentially, and all the unselected arms continue to undergo state evolution <em>restless</em> arms). For this problem, we derive the first-known problem instance-dependent asymptotic lower bound on the growth rate of the expected time required to find the index of the best arm, where the asymptotics is as the error probability vanishes. Further, we propose a sequential policy that, for an input parameter $R$, forcibly selects an arm that has not been selected for $R$ consecutive time instants. We show that this policy achieves an upper bound that depends on $R$ and is monotonically non-increasing as $R\\to\\infty$. The question of whether, in general, the limiting value of the upper bound as $R\\to\\infty$ matches with the lower bound, remains open. We identify a special case in which the upper and the lower bounds match. Prior works on best arm identification have dealt with (a) independent and identically distributed observations from the arms, and (b) rested Markov arms, whereas our work deals with the more difficult setting of restless Markov arms.</p>",
+      "badgesData": [
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2203.15236",
+          "badgeDisplayName": "arxiv"
+        }
+      ]
+    },
+    {
+      "id": "pp2",
+      "title": "<em>Effectiveness of the Bus Priority lane in Bengaluru</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://www.nihesh.com\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Nihesh Rathod</a>, Sarath Yasodharan, Wilson Lobo, <a href=\"https://www.linkedin.com/in/ajeesh-sahadevan/?originalSubdomain=in\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Ajeesh Sahadevan</a>, <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a> and <a href=\"https://www.linkedin.com/in/vpratik/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Pratik Verma</a>",
+      "status":"Submitted to the Special Issue of Transport Policy Journal on Sustainable City Transportation in the Indian Subcontinent, Jan 2022",
+      "hasAbstract": false
+    },
+    {
+      "id": "pp3",
+      "title": "<em>Learning to Detect an Odd Restless Markov Arm with a Trembling Hand</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
+      "status":"Submitted to the Journal of Machine Learning Research, Jan 2022",
+      "hasAbstract": true,
+      "abstract": "<p>This paper studies the problem of finding an anomalous arm in a multi-armed bandit when (a) each arm is a finite-state Markov process, and (b) the arms are restless. Here, anomaly means that the transition probability matrix (TPM) of one of the arms (the odd arm) is different from the common TPM of each of the non-odd arms. The TPMs are unknown to a decision entity that wishes to find the index of the odd arm as quickly as possible, subject to an upper bound on the error probability. We derive a problem instance-specific asymptotic lower bound on the expected time required to find the odd arm index, where the asymptotics is as the error probability vanishes. Further, we devise a policy based on the principle of certainty equivalence, and demonstrate that under a continuous selection assumption and a certain regularity assumption on the TPMs, the policy achieves the lower bound arbitrarily closely. Thus, while the lower bound is shown for all problem instances, the upper bound is shown only for those problem instances satisfying the continuous selection and the regularity assumptions. Our achievability analysis is based on resolving the identifiability problem in the context of a certain lifted countable-state controlled Markov process.</p>",
+      "badgesData": [
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2105.03603",
+          "badgeDisplayName": "arxiv"
+        }
+      ]
+    },
+    {
+      "id": "pp4",
+      "title": "<em>Axiomatic Characterisation of Projection Rules: An Open Question</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
+      "status":"Draft",
+      "hasAbstract": true,
+      "abstract": "<p>This paper studies the close interplay between two commonly used approaches for describing projection rules: (a) function-minimisation approach, and (b) axiomatic approach. As one of the findings of this study, this paper reports an interesting connection that the topic of conservative vector fields has with the axiomatic approach for describing projection rules. This leads to a question on conservative vector fields that is of independent mathematical interest. While answers to this question are known only in a few instances, a general solution to this question is currently not available. Contrary to papers that present concrete results in connection with a selected problem, the main purpose of this paper is to bring to light the above mathematical question.</p>",
+      "badgesData": [
+        {
+          "badgeName": "draft",
+          "link": "../media/2020/05/CsiszarPaperISIT2019.pdf",
+          "badgeDisplayName": "draft"
+        }
+      ]
+    }
+  ],
+  "journals": [
+    {
+      "id": "j1",
+      "title": "<em>Detecting an Odd Restless Markov Arm with a Trembling Hand</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
+      "status":"IEEE Transactions on Information Theory, volume 67, number 8, pp. 5230-5258, 2021",
+      "hasAbstract": true,
+      "abstract": "<p>In this paper, we consider a multi-armed bandit in which each arm is a Markov process evolving on a finite state space. The state space is common across the arms, and the arms are independent of each other. The transition probability matrix of one of the arms (the odd arm) is different from the common transition probability matrix of all the other arms. A decision maker, who knows these transition probability matrices, wishes to identify the odd arm as quickly as possible, while keeping the probability of decision error small. To do so, the decision maker collects observations from the arms by pulling the arms in a sequential manner, one at each discrete time instant. However, the decision maker has a trembling hand, and the arm that is actually pulled at any given time differs, with a small probability, from the one he intended to pull. The observation at any given time is the arm that is actually pulled and its current state. The Markov processes of the unobserved arms continue to evolve. This makes the arms restless. For the above setting, we derive the first known asymptotic lower bound on the expected time required to identify the odd arm, where the asymptotics is of vanishing error probability. The continued evolution of each arm adds a new dimension to the problem, leading to a family of Markov decision problems (MDPs) on a countable state space. We then stitch together certain parameterised solutions to these MDPs and obtain a sequence of strategies whose expected times to identify the odd arm come arbitrarily close to the lower bound in the regime of vanishing error probability. Prior works dealt with independent and identically distributed (across time) arms and rested Markov arms, whereas our work deals with restless Markov arms.</p>",
+      "badgesData": [
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/9410612",
+          "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/2005.06255",
+          "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2021/08/Detecting_an_Odd_Restless_Markov_Arm_With_a_Trembling_Hand.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
+    },
+    {
+      "id": "j2",
+      "title": "<em>Learning to Detect an Odd Markov Arm</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
+      "status":"IEEE Transactions on Information Theory, volume 66, number 7, pp. 4324-4348, 2020",
+      "hasAbstract": true,
+      "abstract": "<p>A multi-armed bandit with finitely many arms is studied when each arm is a homogeneous Markov process on an underlying finite state space. The transition law of one of the arms, referred to as the odd arm, is different from the common transition law of all other arms. A learner, who has no knowledge of the above transition laws, has to devise a sequential test to identify the index of the odd arm as quickly as possible, subject to an upper bound on the probability of error. For this problem, we derive an asymptotic lower bound on the expected stopping time of any sequential test of the learner, where the asymptotics is as the probability of error vanishes. Furthermore, we propose a sequential test, and show that the asymptotic behaviour of its expected stopping time comes arbitrarily close to that of the lower bound. Prior works deal with independent and identically distributed arms, whereas our work deals with Markov arms. Our analysis of the rested Markov setting is a key first step in understanding the difficult case of restless Markov setting, which is still open.</p>",
+      "badgesData": [
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/8990074",
+          "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/1904.11361",
+          "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2020/07/Learning_to_Detect_an_Odd_Markov_Arm.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
+    }
+  ],
+  "conferencePublications": [
+    {
+      "id": "cp1",
+      "title": "<em>Learning to Detect an Odd Restless Markov Arm</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
+      "status":"Proceedings of the IEEE International Symposium on Information Theory (ISIT), pp. 1457-1462, 2021",
+      "hasAbstract": true,
+      "abstract": "<p>This paper studies the problem of identifying an anomalous arm in a multi-armed bandit when each arm is a finite-state Markov process and the arms are restless. Here, anomaly means that the transition probability matrix (TPM) of one of the arms (the odd arm) is different from the common TPM of each of the non-odd arms. The TPMs are unknown to a decision entity that wishes to find the index of the odd arm as quickly as possible, subject to an upper bound on the error probability. We derive an asymptotic lower bound on the expected time required to find the odd arm index, where the asymptotics is as the error probability vanishes. Further, we devise a policy based on the principle of certainty equivalence, and demonstrate that under a continuous selection assumption and a regularity assumption on the TPMs, the policy achieves the lower bound asymptotically. Our achievability analysis is based on resolving the identifiability problem in the context of a certain countable-state controlled Markov process.</p>",
+      "badgesData": [
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/9518083",
+          "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2021/07/1583.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
+    },
+    {
+      "id": "cp2",
+      "title": "<em>Detecting an Odd Restless Markov Arm with a Trembling Hand</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
+      "status":"Proceedings of the IEEE International Symposium on Information Theory (ISIT), pp. 2795-2800, 2020",
+      "hasAbstract": true,
+      "abstract": "<p>Consider a multi-armed bandit whose arms are independent Markov processes on a common underlying state space. The transition probability matrix of one of the arms (the odd arm) is different from the common transition probability matrix of all the other arms. The goal is to identify the odd arm as quickly as possible while keeping the probability of decision error small. We study the case of restless Markov observations and identify an asymptotic lower bound on the expected stopping time for a decision with vanishing error probability. We then propose a sequential test and show that the asymptotic behaviour of its expected stopping time comes arbitrarily close to that of the lower bound. Prior works dealt with iid arms and rested Markov arms, whereas our work deals with restless Markov arms.</p>",
+      "badgesData": [
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/9174397",
+          "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2020/06/0002813.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
+    },
+    {
+      "id": "cp3",
+      "title": "<em>Learning to Detect an Odd Markov</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
+      "status":"Proceedings of the IEEE International Symposium on Information Theory (ISIT), pp. 2554-2558, 2019",
+      "hasAbstract": true,
+      "abstract": "<p>A multi-armed bandit with finitely many arms is studied when each arm is a homogeneous Markov process on an underlying finite state space. The transition law of one of the arms, referred to as the odd arm, is different from the common transition law of all other arms. A learner, who has no knowledge of the above transition laws, has to devise a sequential test to identify the index of the odd arm as quickly as possible, subject to an upper bound on the probability of error. For this problem, we derive an asymptotic lower bound on the expected stopping time of any sequential test of the learner, where the asymptotics is as the probability of error vanishes. Furthermore, we propose a sequential test, and show that the asymptotic behaviour of its expected stopping time comes arbitrarily close to that of the lower bound. Prior works deal with iid arms, whereas our work deals with Markov arms.</p>",
+      "badgesData": [
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/8849807",
+          "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2019/07/Learning_to_Detect_an_Odd_Markov_Arm.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
+    },
+    {
+      "id": "cp4",
+      "title": "<em>On The Equivalence of Projections in Relative $\\alpha$-Entropy and Renyi Divergence</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a> and  <a href=\"https://ece.iisc.ac.in/~rajeshs/\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Rajesh Sundaresan</a>",
+      "status":"Proceedings of the 24th National Conference on Communications (NCC), pp. 1-6, 2018",
+      "hasAbstract": true,
+      "abstract": "<p>The aim of this work is to establish that two recently published projection theorems, one dealing with a parametric generalization of relative entropy and another dealing with Rényi divergence, are equivalent under a correspondence on the space of probability measures. Further, we demonstrate that the associated “Pythagorean” theorems are equivalent under this correspondence. Finally, we apply Eguchi's method of obtaining Riemannian metrics from general divergence functions to show that the geometry arising from the above divergences are equivalent under the aforementioned correspondence.</p>",
+      "badgesData": [
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/8599980",
+          "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "arxiv",
+          "link": "https://arxiv.org/abs/1701.06347",
+          "badgeDisplayName": "arxiv"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2018/02/On_The_Equivalence_of_Projections_in_Relative_-_Entropy_and_Rnyi_Divergence.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
+    },
+    {
+      "id": "cp5",
+      "title": "<em>Model-Based Interference Cartography and Visualization</em>",
+      "authors": "<a href=\"/\" rel=\"noopener noreferrer\" class=\"nameFontColor\"><strong>P. N. Karthik</strong></a>, <a href=\"https://www.kth.se/profile/rakshar\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Raksha Ramakrishna</a>, <a href=\"https://sites.google.com/view/geethujoseph/home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Geethu Joseph</a>, <a href=\"https://ece.iisc.ac.in/~cmurthy/doku.php?id=home\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Chandra R. Murthy</a>, Joyson Sebastian, and <a href=\"https://ece.iisc.ac.in/~nextgenwrl/Neelesh.html\" target=\"_blank\" className=\"addressTag\" rel=\"noopener noreferrer\">Neelesh B. Mehta</a>",
+      "status":"Proceedings of the 23rd National Conference on Communications (NCC), pp. 1-6, 2016",
+      "hasAbstract": true,
+      "abstract": "<p>In this work, we present a tool to construct and visualize the spatio-temporal variations of power. A dataset of real-world power measurements is collected over a geographical area of interest. Relevant parameters of the environment such as the path loss exponent and the decorrelation time of the lognormal shadow fading are extracted from the dataset. Also, the average powers measured at a finite set of known locations are interpolated to obtain the average power distribution over the area. Using the parameters of the lognormal shadow fading, synthetic data with the same temporal behavior of the dataset is generated, and multiplied with the average power distribution. The resulting spatio-temporal power map is displayed on the screen through a graphical user interface developed in-house. The proposed approaches for interpolation and parameter extraction are validated using test datasets generated using the well-accepted modified Gudmundson model for the spatio-temporal correlation of lognormal shadow fading. We also undertake a comparative study of three different interpolation techniques: linear interpolation, inverse distance weighing and ordinary kriging. Further, we compare a model-based approach with a model-free approach for interpolation, and find that model-based ordinary kriging provides the best mean absolute percentage error performance.</p>",
+      "badgesData": [
+        {
+          "badgeName": "xplore",
+          "link": "https://ieeexplore.ieee.org/document/7561174",
+          "badgeDisplayName": "xplore"
+        },
+        {
+          "badgeName": "paper",
+          "link": "../media/2016/03/Model-based_interference_cartography_and_visualization.pdf",
+          "badgeDisplayName": "pdf"
+        }
+      ]
+    }
+  ]
+}

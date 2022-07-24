@@ -1,0 +1,278 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper, sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{classic}                             % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                               % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+%\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc} 
+% if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[left=2cm, right=1cm, top=1cm, bottom=2cm]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+% personal data
+\name{P. N.}{Karthik}
+\title{\url{https://karthikpn.com}}                               % optional, remove / comment the line if not wanted
+\address{02-19, 19 Shelford Road, Singapore 288408}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{+65~8591~2944}                   % optional, , remove / comment the line if not wanted
+\email{karthik@nus.edu.sg}
+
+%  remove / comment the line if not wanted
+% \email{pnkarthik1992@gmail.com}
+
+\begin{document}
+\makecvtitle
+\section{Research Interests}
+\cvitem{}{Markov decision problems, statistical learning, multi-armed bandits, statistical inference, stochastic adaptive control, optimal stopping problems}
+
+\section{Education}
+\cventry{2015--2021}{MTech Research and PhD Dual Degree}{Indian Institute of Science}{Bangalore - India}{}{\begin{itemize}
+    \item Thesis supervisor: Prof. Rajesh Sundaresan.
+    \item Thesis title: Sequential Controlled Sensing to Detect an Anomalous Process.
+    \item GPA: 7.00/8.00.
+\end{itemize}}
+\cventry{2010--2014}{Bachelor of Engineering}{R. V. College of Engineering}{Bangalore - India}{}{\begin{itemize}
+    \item Major: Electronics and Communication Engineering.
+    \item GPA: 9.72/10.00 (ranked 2nd in a class of 140).
+\end{itemize}}
+
+\section{Experience}
+\cventry{Dec 2021 -- }{Research Fellow}{National University of Singapore}{Singapore}{}{
+\begin{itemize}
+    \item Supervisor: Prof. Vincent Tan.
+    \item Projects I am currently working on: (a) optimal stopping problems in decision theory such as best arm identification in restless Markov multi-armed bandits, (b) multi-access coded caching schemes for communication between a central server and access points in a wireless system, and (c) axiomatic approach to inference in linear inverse problems. 
+\end{itemize}}
+\cventry{Nov. 2019 \\ to \\ Mar. 2020}{Research Intern}{Netradyne Technology India Pvt Ltd.}{Bangalore}{}{
+\begin{itemize}
+    \item Analysed a GPS dataset obtained from Netradyne's {\em Driver-i} IoT devices to measure the effectiveness of the bus priority lane (BPL) in Bengaluru.
+    \item The effectiveness of the BPL was measured in terms of travel times.
+    \item Developed a novel algorithm to compute travel times from the GPS dataset.
+    \item Mentors: Prof. Rajesh Sundaresan (IISc), Prof. Abdul Pinjari (IISc), Pratik Verma (Netradyne), Dr. Ajeesh Sahadevan (Netradyne).
+\end{itemize}
+}
+\cventry{2014--2015}{Project Assistant}{Indian Institute of Science}{Bangalore}{}{
+\begin{itemize}
+    \item Project title: Characterisation of Localisation Uncertainty in Wireless Networks.
+    \item Obtained the closed-form expression for the expected area uncertainty in localisation of a sensor located in a network of access points.
+    \item Validated the theoretical results with MATLAB simulations.
+    \item Mentor: Prof. Chandra R. Murthy.
+\end{itemize}}
+\cventry{Aug. 2013 \\ to \\ Dec. 2013}{Project Trainee}{Karnataka State Sericulture Research and Development Institute (KSSRDI)}{Bangalore}{}{
+\begin{itemize}
+    \item Project title: Electronic Measurement of Moisture in Mulberry Leaves.
+    \item Prototyped a device to electronically measure the quantity of moisture in mulberry leaves.
+	\item Demonstrated the advantages of the electronic method over the traditional method for measuring the moisture content of mulberry leaves.
+	\item Mentor: Prof. M. Govinda Raju (R. V. College of Engineering).
+\end{itemize}}
+
+\section{Research Publications}
+\cventry{}{Thesis}{}{}{}{
+\begin{enumerate}
+    \item ``Sequential Controlled Sensing to Detect an Anomalous Process,'' Nov. 2021. PhD thesis submitted to the Department of ECE, IISc.
+\end{enumerate}}
+
+\cventry{}{Preprints}{}{}{}{
+\begin{itemize}
+    \item \textbf{{\color{red} P. N. Karthik}}, Kota Srinivas Reddy, and Vincent Y. F. Tan, ``Best Arm Identification in Restless Markov Multi-Armed Bandits.'' Submitted, March 2022.
+    \item \textbf{{\color{red} P. N. Karthik}}, Nihesh Rathod, Sarath Yasodharan, Wilson Lobo, Ajeesh Sahadevan, Rajesh Sundaresan and Pratik Verma, ``Effectiveness of the Bus Priority lane in Bengaluru.'' Submitted, January 2022.
+    \item \textbf{{\color{red} P. N. Karthik}}, R. Sundaresan, ``Learning to Detect an Odd Restless Markov Arm with a Trembling Hand.'' Submitted, January 2022.
+    \item \textbf{{\color{red} P. N. Karthik}}, R. Sundaresan, ``Axiomatic Characterisation of Projection Rules: An Open Question,'' Draft.
+\end{itemize}}
+
+\cventry{}{Journal Articles}{}{}{}{
+\begin{enumerate}
+    \item \textbf{{\color{red} P. N. Karthik}}, R. Sundaresan, ``Detecting an Odd Restless Markov Arm with a Trembling Hand,'' IEEE Transactions on Information Theory, Aug. 2021, vol. 67, no. 8, pp. 5230 - 5258.
+    \item \textbf{{\color{red} P. N. Karthik}}, R. Sundaresan, ``{{Learning to Detect an Odd Markov Arm}},'' IEEE Transactions on Information Theory, July 2020, vol. 66, no. 7, pp. 4324 – 4348.
+\end{enumerate}}
+
+\cventry{}{Conference Publications}{}{}{}{
+\begin{enumerate}
+    \item {\color{red} \textbf{P. N. Karthik}}, R. Sundaresan, ``Learning to Detect an Odd Restless Markov Arm,'' proceedings of the 2021 IEEE International Symposium on Information Theory (ISIT). 
+    \item \textbf{{\color{red} P. N. Karthik}}, R. Sundaresan, ``Detecting an Odd Restless Markov Arm with a Trembling Hand,'' proceedings of the 2020 IEEE International Symposium on Information Theory (ISIT) (virtual conference).
+    \item \textbf{{\color{red} P. N. Karthik}}, R. Sundaresan, ``{{Learning to Detect an Odd Markov Arm}},'' proceedings of the 2019 IEEE International Symposium on Information Theory (ISIT), 07-12 July 2019, Paris, France.
+    \item \textbf{{\color{red} P. N. Karthik}}, R. Sundaresan, ``{{On The Equivalence of Projections In Relative $\alpha$-Entropy and R\'{e}nyi Divergence}}," proceedings of the twenty fourth National Conference on Communications (NCC) 2018, IIT Hyderabad.
+    \item \textbf{{\color{red} P. N. Karthik}} et al, ``{{Model-Based Interference Cartography and Visualization}},'' proceedings of the 2016 National Conference on Communication, NCC 2016, IIT Guwahati, Guwahati, March 2016.
+\end{enumerate}}
+
+
+\section{Research Coursework}
+\cvitem{Credit}{Information Theory, Detection and Estimation Theory,  Analysis I (Real Analysis), Analysis II (Measure Theory), Probability Theory, Random Processes, Error Correcting Codes, Calculus on Manifolds, Ordinary Differential Equations}
+\cvitem{Audit}{Topics in Information Theory and Statistical Learning, Online Prediction and Learning, Concentration Inequalities, Data Analytics, Topics in Multi-User Communications, Stochastic Approximation Algorithms, Large Deviations.}
+
+\section{Research Talks/Presentations}
+\cvitem{2022}{
+\begin{itemize}
+    \item {\em Behind the Scenes of $Ax=b$: Axioms and an Open Question.} Mar 2022. A talk given to Prof. Vincent Tan‘s research group.
+\end{itemize}}
+
+\cvitem{2021}{
+\begin{itemize}
+    \item {\em Sequential Controlled Sensing to Detect an Anomalous Process.} Nov 2021. PhD Defence presentation, Department of ECE, IISc.
+    \item {\em Finding a Markov Anomaly Quickly and Accurately,}
+Oct 2021. A video entry for the “100 seconds” competition organised by the Kanpur Chapter of INAE.
+    \item {\em GATE: A Pathway to Research,} Oct 2021. An online interactive session on the Graduate Aptitude Test in Engineering (GATE) as a pathway to undertaking research, organised by the Division of EECS, IISc.
+     \item {\em Information Geometry and Its Applications to Statistics,} Sept 2021. A lecture for the students of IISc.
+    \item {\em Learning to Detect an Odd Restless Markov Arm}, Jul 2021. IEEE International Symposium on Information Theory (ISIT), virtual conference. 
+    \item {\em Sequential Controlled Sensing to Detect an Anomalous Process}, June 2021. PhD colloquium talk, Department of ECE, IISc (conducted online via Microsoft Teams).
+    \item {\em Steps to Crack GATE}, May 2021. A session conducted for the students of RV College of Engineering to educate them about the Graduate Aptitude Test in Engineering (GATE).
+\end{itemize}
+}
+\cvitem{2020}{
+\begin{itemize}
+    \item {\em Probability in Real-Life: Example Applications from Visual Neuroscience, Colour Blindness Detection and Covid-19 Outbreak Modelling}, Sep. 2020. A talk presented virtually to the 5th semester students and the faculty of the Department of ECE, R. V.  College of Engineering.
+\item {\em Odd Arm Identification in Multi-armed Bandits with Markov Observations}, Jul. 2020.
+EECS Research Students Symposium, IISc.
+\item {\em Detecting an Odd Restless Markov Arm with a Trembling Hand}, Jun. 2020.
+IEEE International Symposium on Information Theory (ISIT).
+\item {\em Visual Search with a Trembling Hand: An Analysis of Odd Arm Identification in Restless Multi-armed Bandits}, Mar. 2020.
+Centre for Networked Intelligence, IISc.
+\item {\em On Detecting an Anomalous Arm in a Multi-armed Bandit with Markov Observations}, Jan. 2020.
+STCS Symposium, TIFR Mumbai.
+\end{itemize}}
+
+\cvitem{2019}{
+\begin{itemize}
+   \item {\em Search in Research: The Importance of the Theory of Probability in Real-Life}, Dec. 2019.
+RV College of Engineering.
+\item {\em Learning to Detect an Odd Markov Arm}, Dec. 2019.
+Lectures on Probability and Stochastic Processes (LPS) XIV, ISI Delhi.
+\item {\em On Detecting An Anomalous Arm in Multi-armed Bandits with Markov Observations}, Nov. 2019.
+Networks Seminar, Robert Bosch Centre for Cyber Physical Systems, IISc.
+\item {\em Learning to Detect an Odd Markov Arm}, Aug. 2019.
+Joint Telematics Group (JTG) Summer School, IIT Madras.
+\item {\em Learning to Detect an Odd Markov Arm}, Aug. 2019.
+ICTS Program on Advances in Applied Probability, ICTS.
+\item {\em Learning to Detect an Odd Markov Arm}, Jul. 2019.
+IEEE International Symposium on Information Theory (ISIT), Paris, France.
+\item {\em A Short Course on Probability and Random Processes}, Jun. 2019.
+R. V. College of Engineering.
+\item {\em $Ax=b$: A Familiar Setup, Axioms and An Open Question}, Feb. 2019.
+ECE Students’ Seminar Series, IISc.
+\end{itemize}}
+
+\cvitem{2018}{
+\begin{itemize}
+   \item {\em On the Equivalence of Projections in Relative $\alpha$-Entropy and Rényi Divergence}, Feb. 2018.
+National Conference on Communications (NCC), IIT Hyderabad.
+\end{itemize}}
+
+\cvitem{2017}{
+\begin{itemize}
+   \item {\em On the Equivalence of Projections in Relative $\alpha$-Entropy and Rényi Divergence}, Dec. 2017.
+Lectures on Probability and Stochastic Processes (LPS) XII, ISI Kolkata.
+\end{itemize}}
+
+
+\section{Programming Languages and Software}
+\cvitem{}{Python, MATLAB, Microsoft PowerBI, Notion, \LaTeX.}
+
+\section{Certification}
+\cvitem{}{
+\begin{itemize}
+    \item Power BI Masterclass - Beginners to Advanced (Udemy).
+    \item Power BI Masterclass - How to Use CALCULATE in DAX (Udemy).
+\end{itemize}}
+
+\section{Awards and Honors}
+\cvitem{}{
+\begin{itemize}
+    \item Winner of the "100 Seconds" competition (under the "Electronics and Communication Engineering" category) organised by INAE Kanpur Chapter.
+    \item Best paper award at the 2020 EECS Research Students' Symposium, IISc.
+    \item Best 3-minute presentation at the ECE Students' Seminar Series, Dept. of ECE, IISc. 
+    \item Ranked in the top $0.01\%$ in the 2015 Graduate Aptitude Test in Engineering (GATE).
+    \item {\em Infineon India scholarship} for securing the $2$nd  rank in the 2011 Visvesvaraya Technological University examinations, Dec. 2011.
+    \item Ranked in the top $0.02\%$ in the 2010 Karnataka Common Entrance Test (KCET).   
+\end{itemize}}
+
+\section{Professional Service}
+\cvitem{}{\begin{itemize}
+\item Teaching assistant, ``E2-201: Information Theory'', Aug-Dec 2019, Dept. of ECE, IISc.
+\item Teaching assistant,  ``E2-202: Random Processes'', Aug-Dec 2018, Dept. of ECE, IISc.
+\item Teaching assistant, ``E2-202: Random Processes'', Aug-Dec 2017, Dept. of ECE, IISc.
+\item Reviewer, IEEE Transactions on Information Theory.
+\item Reviewer, IEEE Transactions on Signal Processing.
+\item Reviewer, Entropy Journal.
+\item Reviewer, IEEE International Symposium on Information Theory (ISIT).
+\item Reviewer, National Conference on Communications (NCC).
+\end{itemize}}
+
+\section{Professional Referees}
+\cventry{}{Dr. Rajesh Sundaresan}{}{}{}{
+Professor, \\
+Department of Electrical Communication Engineering,\\
+Indian Institute of Science,\\
+Bangalore - $560012$, India.\\
+E-mail: \href{mailto:rajeshs@iisc.ac.in}{rajeshs@iisc.ac.in}.\\
+Phone: $+91~80~2293~2658$.\\
+Webpage: \url{https://ece.iisc.ac.in/~rajeshs/}}
+
+\vspace{0.3cm}
+
+\cventry{}{Dr. Utpal Mukherji}{}{}{}{
+Professor, \\
+Department of Electrical Communication Engineering,\\
+Indian Institute of Science,\\
+Bangalore - $560012$, India.\\
+E-mail: \href{mailto:utpal@iisc.ac.in}{utpal@iisc.ac.in}.\\
+Phone: $+91~80~2293~3152$\\
+Webpage: \url{https://ece.iisc.ac.in/~utpal/}}
+
+\vspace{0.3cm}
+
+\cventry{}{Dr. Navin Kashyap}{}{}{}{
+Professor, \\
+Department of Electrical Communication Engineering,\\
+Indian Institute of Science,\\
+Bangalore - $560012$, India.\\
+E-mail: \href{mailto:nkashyap@iisc.ac.in}{nkashyap@iisc.ac.in}.\\
+Phone: $+91~80~2293~3385$.\\
+Webpage: \url{https://ece.iisc.ac.in/~nkashyap/}}
+
+\vspace{0.3cm}
+
+\cventry{}{Dr. Himanshu Tyagi}{}{}{}{
+Associate Professor, \\
+Department of Electrical Communication Engineering,\\
+Indian Institute of Science,\\
+Bangalore - $560012$, India.\\
+E-mail: \href{mailto:htyagi@iisc.ac.in}{htyagi@iisc.ac.in}.\\
+Phone: $+91~80~2293~2277$.\\
+Webpage: \url{https://ece.iisc.ac.in/~htyagi/}}
+
+\vspace{0.3cm}
+
+\cventry{}{Dr. Parimal Parag}{}{}{}{
+Associate Professor, \\
+Department of Electrical Communication Engineering,\\
+Indian Institute of Science,\\
+Bangalore - $560012$, India.\\
+E-mail: \href{mailto:parimal@iisc.ac.in}{parimal@iisc.ac.in}.\\
+Phone: $+91~80~2293~2279$.\\
+Webpage: \url{https://ece.iisc.ac.in/~parimal/}}
+
+
+
+% \section{Conferences, Workshops and Seminars}
+% \cvitem{}{\begin{itemize}
+% \item The Joint Telematics Group (JTG) Summer School 2015-2018.
+% \item Lectures on Probability and Stochastic Processes (LPS) 2016-2018.
+% \item National Conference on Communications (NCC) 2018, 2019.
+% \item Summer School on Information Theory: Inequalities, Distances and Analysis, Paris, France, June 24-29, 2018.
+% \item 2019 IEEE International Symposium on Information Theory (ISIT), Paris, France.
+% \item 2020 IEEE International Symposium on Information Theory (ISIT), virtual conference.
+% \end{itemize}}
+\end{document}

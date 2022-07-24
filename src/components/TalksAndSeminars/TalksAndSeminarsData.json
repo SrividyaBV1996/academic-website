@@ -1,0 +1,375 @@
+{
+  "2022": [
+    {
+      "date": "Mar 2022",
+      "title": "<em>Behind the Scenes of $Ax=b$: Axioms and an Open Question</em>",
+      "description": "<span>A talk given to Prof. <a href=\"https://vyftan.github.io\" target=\"_blank\" rel=\"noopener noreferrer\">Vincent Tan</a>‘s research group</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2022/03/nus-talk-23-march-2022.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/WYWYzlCENGU",
+          "badgeDisplayName": "video"
+        }
+      ]
+    }
+  ],
+  "2021": [
+    {
+      "date": "Nov 2021",
+      "title": "<em>Sequential Controlled Sensing to Detect an Anomalous Process</em>",
+      "description": "<span>Ph.D. defence, Department of ECE, IISc (conducted online via Microsoft Teams)</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2021/11/thesis-defence.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/64BscxU7nhg",
+          "badgeDisplayName": "video"
+        }
+      ]
+    },
+    {
+      "date": "Oct 2021",
+      "title": "<em>Finding a Markov Anomaly Quickly and Accurately</em>",
+      "description": "<span>Secured the <span class=\"boldColor\">first place</span> under “Electronics and Communication Engineering” category in the <a href=\"https://drive.google.com/drive/folders/1ym3GB05XDHRbjU3mGJaIz4v37Z-Qj4xI\" target=\"_blank\" rel=\"noopener noreferrer\">100 seconds competition</a> organised by the Kanpur Chapter of INAE</span>",
+      "badgesData": [
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/f9IxTny5FXU",
+          "badgeDisplayName": "video"
+        },
+        {
+          "badgeName": "certificate",
+          "link": "../media/2021/12/INAE-100-seconds.pdf",
+          "badgeDisplayName": "certificate"
+        }
+      ]
+    },
+    {
+      "date": "Oct 2021",
+      "title": "<em>GATE: A Pathway to Research</em>",
+      "description": "<span>An online interactive session on the Graduate Aptitude Test in Engineering (GATE) as a pathway to undertaking research, organised by the <a href=\"https://eecs.iisc.ac.in\" target=\"_blank\" rel=\"noopener noreferrer\">Division of EECS</a>, IISc</span>",
+      "badgesData": [
+        {
+          "badgeName": "video",
+          "link": "https://www.youtube.com/watch?v=WFaW-O2GBfs",
+          "badgeDisplayName": "video"
+        }
+      ]
+    },
+    {
+      "date": "Sep 2021",
+      "title": "<em>Information Geometry and Its Applications to Statistics</em>",
+      "description": "<span>A lecture for the students of IISc</span>",
+      "badgesData": [
+        {
+          "badgeName": "notes",
+          "link": "../media/2021/10/Information-Geometry-and-Its-Applications-to-Statistics.pdf",
+          "badgeDisplayName": "notes"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/PDsDB8hL5cw",
+          "badgeDisplayName": "video"
+        }
+      ]
+    },
+    {
+      "date": "Jul 2021",
+      "title": "<em>Learning to Detect an Odd Restless Markov Arm</em>",
+      "description": "<span>IEEE International Symposium on Information Theory (ISIT), virtual conference</span>",
+      "badgesData": [
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/Q9RiJTbYk14",
+          "badgeDisplayName": "4-min presentation"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/ievwj16otcQ",
+          "badgeDisplayName": "20-min presentation"
+        },
+        {
+          "badgeName": "slides",
+          "link": "../media/2021/05/isit-2021-20min.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "title": "<em>Sequential Controlled Sensing to Detect an Anomalous Process</em>",
+      "description": "<span>Ph.D. colloquium talk, Department of ECE, IISc (conducted online via Microsoft Teams)</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2021/06/thesis-colloquium.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/K4mDnbY03a4",
+          "badgeDisplayName": "video"
+        }
+      ]
+    },
+    {
+      "date": "May 2021",
+      "title": "<em>Steps to Crack GATE</em>",
+      "description": "<span>A session conducted for the students of RV College of Engineering to educate them about the Graduate Aptitude Test in Engineering (GATE)<br /> Other speakers in the video: <a href=\"https://www.linkedin.com/in/dheeraj-prasanna-166385112/\" target=\"_blank\" rel=\"noopener noreferrer\">Dheeraj Prasanna</a>, <a href=\"https://www.linkedin.com/in/abhishek-g-1610a0119/\" target=\"_blank\" rel=\"noopener noreferrer\">Abhishek G</a></span>",
+      "badgesData": [
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/GS8-cs5pAO4",
+          "badgeDisplayName": "video"
+        }
+      ]
+    }
+  ],
+  "2020": [
+    {
+      "date": "Sep 2020",
+      "title": "<em>Probability in Real-Life: Example Applications from Visual Neuroscience, Colour Blindness Detection and Covid-19 Outbreak Modelling</em>",
+      "description": "<span>A talk presented virtually to the 5th semester students and the faculty of the Department of ECE, RV College of Engineering</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/10/rvce_probability_2020.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/xyjWP0GQD0U",
+          "badgeDisplayName": "video"
+        }
+      ]
+    },
+    {
+      "date": "Jul 2020",
+      "title": "<em>Odd Arm Identification in Multi-armed Bandits with Markov Observations</em>",
+      "description": "<span><a href=\"https://eecs.iisc.ac.in/EECS2020/index.php\" target=\"_blank\" rel=\"noopener noreferrer\">EECS Research Students Symposium</a>, IISc, virtual presentation<br/>Secured the <span class=\"boldColor\">best paper award</span> under the “Signal Processing, Communication Networks & Information Theory” track</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/07/eecs_symposium_2020_slides.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/_8l1agFxvUU",
+          "badgeDisplayName": "video"
+        },
+        {
+          "badgeName": "certificate",
+          "link": "../media/2020/10/Best_paper_award_certificate.pdf",
+          "badgeDisplayName": "best paper award certificate"
+        }
+      ]
+    },
+    {
+      "date": "Jun 2020",
+      "title": "<em>Detecting an Odd Restless Markov Arm with a Trembling Hand</em>",
+      "description": "<span>IEEE International Symposium on Information Theory (ISIT), virtual conference</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/06/ISIT2020_Karthik_Sundaresan.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/ZTV5VtCLrdQ",
+          "badgeDisplayName": "video"
+        }
+      ]
+    },
+    {
+      "date": "May 2020",
+      "title": "<em>Visual Search with a Trembling Hand: An Analysis of Odd Arm Identification in Restless Multi-armed Bandits</em>",
+      "description": "<span>Centre for Networked Intelligence, IISc</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/networks_seminar_March2020.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "https://youtu.be/qpjAVY_osXE",
+          "badgeDisplayName": "video"
+        }
+      ]
+    },
+    {
+      "date": "Jan 2020",
+      "title": "<em>On Detecting an Anomalous Arm in a Multi-armed Bandit with Markov Observations.</em>",
+      "description": "<span>STCS Symposium, TIFR Mumbai</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/stcs_symposium_2020.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    }
+  ],
+  "2019": [
+    {
+      "date": "Dec 2019",
+      "title": "<em>Search in Research: The Importance of the Theory of Probability in Real-Life</em>",
+      "description": "<span>RV College of Engineering</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/rvce_20191224.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
+      "date": "Dec 2019",
+      "title": "<em>Learning to Detect an Odd Markov Arm</em>",
+      "description": "<span>Lectures on Probability and Stochastic Processes (LPS) XIV, ISI Delhi</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/karthik-lpsxiv.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "../media/2020/05/A0.pdf",
+          "badgeDisplayName": "poster"
+        }
+      ]
+    },
+    {
+      "date": "Nov 2019",
+      "title": "<em>On Detecting An Anomalous Arm in Multi-armed Bandits with Markov Observations</em>",
+      "description": "<span>Networks Seminar, Robert Bosch Centre for Cyber Physical Systems, IISc</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/07/networks_seminar_Nov13.pdf",
+          "badgeDisplayName": "slides"
+        },
+        {
+          "badgeName": "video",
+          "link": "../media/2020/07/problem_setup_gif_rested.m4v",
+          "badgeDisplayName": "Rested arms animation"
+        },
+        {
+          "badgeName": "video",
+          "link": "../media/2020/07/problem_setup_gif_restless.m4v",
+          "badgeDisplayName": "Restless arms animation"
+        }
+      ]
+    },
+    {
+      "date": "Aug 2019",
+      "title": "<em>Learning to Detect an Odd Markov Arm</em>",
+      "description": "<span>Joint Telematics Group (JTG) Summer School, IIT Madras</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/A0.pdf",
+          "badgeDisplayName": "poster"
+        }
+      ]
+    },
+    {
+      "date": "Aug 2019",
+      "title": "<em>Learning to Detect an Odd Markov Arm</em>",
+      "description": "<span>ICTS Program on Advances in Applied Probability, ICTS</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/paapKarthik.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
+      "date": "Jul 2019",
+      "title": "<em>Learning to Detect an Odd Markov Arm</em>",
+      "description": "<span>IEEE International Symposium on Information Theory (ISIT), Paris, France</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/isit2019_karthik_sundaresan.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    },
+    {
+      "date": "Jun 2019",
+      "title": "<em>A Short Course on Probability and Random Processe</em>",
+      "description": "<span>RV College of Engineering</span>",
+      "badgesData": [
+        {
+          "badgeName": "thesis",
+          "link": "../media/2020/05/Course-material.zip",
+          "badgeDisplayName": "course material"
+        }
+      ]
+    },
+    {
+      "date": "Feb 2019",
+      "title": "<em>$Ax=b$: A Familiar Setup, Axioms and An Open Question</em>",
+      "description": "<span>ECE Students’ Seminar Series, IISc</span>",
+      "badgesData": [
+        {
+          "badgeName": "video",
+          "link": "../media/2020/05/3MT-by-Karthik-P-N-January-9-2019.mp4",
+          "badgeDisplayName": "3-min video"
+        },
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/KarthikSSS.pdf",
+          "badgeDisplayName": "3-min slides"
+        },
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/KarthikSSSMain.pdf",
+          "badgeDisplayName": "main talk slides"
+        }
+      ]
+    }
+  ],
+  "2018": [
+    {
+      "date": "Feb 2018",
+      "title": "<em>On the Equivalence of Projections in Relative $\\alpha$-Entropy and Rényi Divergence</em>",
+      "description": "<span>National Conference on Communications (NCC), IIT Hyderabad</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/nccKarthikSun2018.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    }
+  ],
+  "2017": [
+    {
+      "date": "Dec 2017",
+      "title": "<em>On the Equivalence of Projections in Relative $\\alpha$-Entropy and Rényi Divergence</em>",
+      "description": "<span>Lectures on Probability and Stochastic Processes (LPS) XII, ISI Kolkata</span>",
+      "badgesData": [
+        {
+          "badgeName": "slides",
+          "link": "../media/2020/05/lps2017.pdf",
+          "badgeDisplayName": "slides"
+        }
+      ]
+    }
+  ]
+}

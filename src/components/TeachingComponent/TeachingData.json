@@ -1,0 +1,196 @@
+[
+  {
+    "year": "2019",
+    "courseMonth": "Aug - Dec",
+    "title": "<em class=\"teachingCourse\">E2 201: Information Theory (taught as a graduate teaching assistant)</em>",
+    "noOfInstructors": 1,
+    "courseInstructor": "<span>Prof. <a href=\"https://ece.iisc.ac.in/~htyagi/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Himanshu Tyagi</a></span>",
+    "courseWebsite": "<a href=\"https://ece.iisc.ac.in/~htyagi/course-E2201-2019.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~htyagi/course-E2201-2019.html</a>",
+    "term": "Aug-Dec 2019",
+    "notesDesc": "<p>Below are the links to the notes that I prepared to help myself organise the material that I would teach every alternate week.<p>I wish to mention here that these notes are exclusively written by me, and may not be correct in all respects. Thus, there is no guarantee that the notes are free from errors. I try as much as possible to make each of the notes error-free. If you do find any errors, logical, conceptual or otherwise, please notify me through email.</p></p>",
+    "notesList": [
+      {
+        "title": "<span>Review of concepts from probability theory</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession1InforTheory.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>The various facets of Shannon entropy</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession3InfoTheory.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Hypothesis testing, total variation distance and KL divergence</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession5InfoTheory.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Problems</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession7InfoTheory.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Compression, search queries and hashing</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession9InfoTheory.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "year": "2018 and 2017",
+    "courseMonth": "Aug - Dec",
+    "title": "<em class=\"teachingCourse\">E2 202: Random Processes (taught as a graduate teaching assistant)</em>",
+    "noOfInstructors": 2,
+    "courseInstructor": "<span>Prof. <a href=\"https://ece.iisc.ac.in/~utpal/\" target=\"_blank\" rel=\"noopener noreferrer\">Utpal Mukherji</a> and Prof. <a href=\"https://ece.iisc.ac.in/~parimal/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Parimal Parag</a></span>",
+    "courseWebsite": "<a href=\"https://ece.iisc.ac.in/~htyagi/course-E2201-2019.html\" download=\"coursewebsite\" target=\"_blank\" rel=\"noopener noreferrer\">https://ece.iisc.ac.in/~parimal/random.html</a>",
+    "term": "Aug-Dec 2017, 2018",
+    "notesDesc": "<p>Below are some of the topics on which I prepared notes to assist the students in learning the topics taught in the course. I have also provided a link to the pdf of the notes. I wish to mention here that these notes are exclusively written by me, and may not be correct in all respects. Thus, there is no guarantee that the notes are free from errors. If you do find any errors, logical, conceptual or otherwise, please notify me through email</p>",
+    "notesList": [
+      {
+        "title": "<span>Sample space, sigma algebra, example constructions of sigma algebras, “infinitely often” and “all but finitely many” events</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession1.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Probability measure, continuity of probability, independence</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession2.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Borel sigma algebra, random variables, CDF and its properties, construction of CDF from a probability measure, example constructions of random variables with respect to various sigma algebras</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession4.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Functions of random variables: sum, min, Jensen’s inequality, Cauchy-Schwartz inequality</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/Tutorial_5.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Sigma algebra generated by a random variable, <a href=\"../media/2020/05/SimulatingCDFs.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">simulation of CDFs on a computer</a>, properties of joint CDFs, overview of Riemann and Lebesgue integrals, independence of random variables – definition and equivalent forms for jointly discrete and jointly continuous random variables</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession6.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Conditional expectation, law of iterated expectations, geometric interpretation of conditional expectation as MMSE estimate, example problems</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/Tutorial_10.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Moment generating functions, characteristic functions, jointly Gaussian random variables (or Gaussian random vectors)</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/Tutorial_11.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Convergence of real sequences, modes of convergence of a sequence of random variables, Borel-Cantelli lemma, examples</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/Tutorial_12.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Stationarity and wide-sense stationarity of stochastic processes, basics of discrete time Markov processes (DTMCs) – recurrence, transience, hitting times, stopping times</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession13.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>DTMCs and their invariant (stationary) distributions</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/Tutorial_14.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Problems on Poisson process</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession15.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      },
+      {
+        "title": "<span>Miscellaneous problems on convergence of sequences of random variables</span>",
+        "badgesData": [
+          {
+            "badgeName": "notes",
+            "link": "../media/2020/05/TASession16.pdf",
+            "badgeDisplayName": "notes"
+          }
+        ]
+      }
+    ]
+  }
+]
