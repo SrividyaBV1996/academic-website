@@ -1,13 +1,14 @@
-# A simple and responsive academic website using ReactJS, HTML, CSS
+# A simple and responsive academic website using ReactJS, HTML, CSS, Bootstrap
 ![website-desktop](https://user-images.githubusercontent.com/99643989/180634829-220fcd03-5314-4f3f-8a56-f7fa8fb74f4b.png)
 
-This is a simple and responsive website for academicians build using technologies such as ReactJS, HTML, CSS, Mathjax.
+This is a simple and responsive website for academicians build using technologies such as ReactJS, HTML, CSS, Bootstrap and Mathjax.
 
 # Project setup
 
-* Clone the project
-* Install node modules using npm install
-* To run the project use the command npm start
+* Clone the project: $git clone https://github.com/SrividyaBV1996/academic-website.git
+* Go inside the project directory: $cd ../path-to-folder
+* Install node modules: $npm install
+* To run the projec: $npm start
 
 # Supporting Latex in Website
 
