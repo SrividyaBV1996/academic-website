@@ -1,7 +1,7 @@
 # A simple and responsive academic website using ReactJS, HTML, CSS, Bootstrap
-<a href="https://karthikpn.com">![website-desktop](https://user-images.githubusercontent.com/99643989/180634829-220fcd03-5314-4f3f-8a56-f7fa8fb74f4b.png)</a>
+<a href="https://karthikpn.com" target="_blank">![website-desktop](https://user-images.githubusercontent.com/99643989/180634829-220fcd03-5314-4f3f-8a56-f7fa8fb74f4b.png)</a>
 
-This is a simple and responsive website built for my husband Dr. <a href="https://karthikpn.com">P. N. Karthik</a>. The tech stacks used to build the website are ReactJS, HTML, CSS, Bootstrap and Mathjax.
+This is a simple and responsive website built for my husband Dr. <a href="https://karthikpn.com" target="_blank">P. N. Karthik</a>. The tech stacks used to build the website are ReactJS, HTML, CSS, Bootstrap and Mathjax.
 
 # Project setup
 
